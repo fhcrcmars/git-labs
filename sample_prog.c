@@ -3,7 +3,9 @@
 
 int main(void)
 {
-    bug1();
+    printf("test\n");
+
+	bug1();
     bug2();
     bug3();
     bug4();

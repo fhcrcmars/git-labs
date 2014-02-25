@@ -1,4 +1,4 @@
-# git-labs
+#git-labs
 ---
 * The goal is to practice git and github. Your mission is to
     * fork this repository to your github repository
@@ -12,3 +12,5 @@
 
 * Known bug:
     * Build failed in BSD
+
+* this is a test
